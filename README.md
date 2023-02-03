@@ -47,6 +47,8 @@ The following repositories were used for this work
 - [HybridSN](https://github.com/gokriznastic/HybridSN)
 - [HSI - Traditional to Deep Models](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)
 - [SpectralNET](https://github.com/tanmay-ty/SpectralNET)
+- [HSI Classification](https://github.com/eecn/Hyperspectral-Classification)
+- [Double-Branch Dual-Attention Mechanism Network](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network)
 
 ## License
-Copyright (c) 2023 Rohit P N. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2023 Rohit P N and Anirudh Ravikumar. Released under the MIT License. See [LICENSE](LICENSE) for details.
