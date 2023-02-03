@@ -7,7 +7,7 @@
 ## Link to Paper
 [Hyperspectral Image Classification Using Deep Matrix Capsules](https://ieeexplore.ieee.org/document/10028853)
 ## Description
-Deep Matrix Capsules is based on the concept of matrix capsules with Expectation-Maximization (EM) routing algorithm which is specifically designed to accommodate the nuances in the HSI data to efficiently tackle the aforementioned problems. The capsule units enable effective identification of spectral siguatures and part-whole relationships in the data while EM routing ensures viewpoint-invariance.
+Deep Matrix Capsules is based on the concept of matrix capsules with Expectation-Maximization (EM) routing algorithm which is specifically designed to accommodate the nuances in the HSI data to efficiently tackle the problems of exploiting spectral-spatial relationships and computational complexity. The capsule units enable effective identification of spectral siguatures and part-whole relationships in the data while EM routing ensures viewpoint-invariance.
 ## Model
 ![Deep Matrix Capsules Architecture for HSI Classification](Images/ArchitectureDiagram.png "Deep Matrix Capsules Architecture for HSI Classification")
 Deep Matrix Capsules Architecture for HSI Classification
